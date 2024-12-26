@@ -2,9 +2,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>팀프로젝트</title>
+<title>Team HelloHealthy</title>
 </head>
 <body>
-    메인페이지
+    연결 확인 메세지
 </body>
 </html>
